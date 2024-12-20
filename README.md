@@ -142,7 +142,7 @@ Here are the key insights from the above  dashboard:
    ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20Part-04.png?raw=true)
 
     Here are some key insights:
-
+   
 1. **Top-Performing Region**:  
    - The **West** region leads in sales with **522.44K (33.37%)**, contributing the largest share among all regions.
 
