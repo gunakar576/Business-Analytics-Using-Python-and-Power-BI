@@ -39,7 +39,7 @@ This project leverages the Superstore dataset to create an interactive Power BI 
   - Profitability Metrics
   - Aggregations and Filters
  
-
+## Analysis and Insight from Dash Board
 
 ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20part-01.png?raw=true)
 
