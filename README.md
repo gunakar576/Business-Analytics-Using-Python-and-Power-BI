@@ -41,7 +41,7 @@ This project leverages the Superstore dataset to create an interactive Power BI 
   - 
  
 ## Analysis and Insight from Dash Board
-
+### Part-01
 ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20part-01.png?raw=true)
 
 
@@ -82,7 +82,7 @@ Here are some key insights from your Power BI dashboard based on the visualizati
 - **Shipping Optimization**: Investigate why other shipping modes are underperforming compared to the Standard Class.
 - **Category Focus**: Promote low-performing categories like Technology while sustaining growth in Office Supplies.
 
-
+### part-02
 ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dah%20Board%20Part-02.png?raw=true)
 
 
@@ -111,5 +111,31 @@ Here are the key insights based on the above  dashboard:
 2. **Underperforming States**: Analyze factors in states like **Ohio**, **Illinois**, and **Florida** to understand barriers to sales growth.
 3. **Forecast Insights**: Prepare for the expected stabilization in early 2021 by aligning inventory and marketing strategies.
 4. **Seasonal Promotions**: Capitalize on high-sales periods (e.g., early and late 2020) with targeted promotions or campaigns.
+ ### Part-03
+![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20Part-03.png?raw=true)
+
+Here are the key insights from the above  dashboard:
+
+### 1. **Sales by Region**:
+   - The **Central region** is the sole focus in this analysis, contributing **100%** of the total sales (**341.01K**). This suggests that the data might be filtered to show only the Central region.
+
+### 2. **Sales by Payment Mode**:
+   - **Cash on Delivery (COD)** is the most used payment mode, contributing **41%** of the sales.
+   - **Online payments** contribute **39%**, showing a competitive presence compared to COD.
+   - **Cards** contribute the least, accounting for **20%** of the sales.
+
+### 3. **Sales by Segment**:
+   - **Consumer** segment dominates with **48%** of the total sales, indicating strong demand in this category.
+   - The **Corporate** segment follows with **33%**, showing substantial contribution.
+   - **Home Office** segment accounts for only **20%**, suggesting an area that might require improvement or targeted strategies.
+
+### Suggestions:
+1. **Expand Regional Insights**: Include data from other regions (East, West, South) to compare performance and identify opportunities for growth.
+2. **Payment Mode Strategy**:
+   - Promote card usage through discounts or offers to increase its contribution.
+   - Enhance COD services to maintain its leading position while encouraging users to switch to online modes for faster transactions.
+3. **Segment Strategy**:
+   - Focus on increasing sales in the **Home Office** segment with targeted marketing and product bundling.
+   - Continue leveraging the **Consumer** segment's demand by introducing personalized offers.
 
 
