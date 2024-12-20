@@ -82,7 +82,7 @@ Here are some key insights from your Power BI dashboard based on the visualizati
 - **Shipping Optimization**: Investigate why other shipping modes are underperforming compared to the Standard Class.
 - **Category Focus**: Promote low-performing categories like Technology while sustaining growth in Office Supplies.
 
-### part-02
+### Part-02
 ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dah%20Board%20Part-02.png?raw=true)
 
 
@@ -137,5 +137,26 @@ Here are the key insights from the above  dashboard:
 3. **Segment Strategy**:
    - Focus on increasing sales in the **Home Office** segment with targeted marketing and product bundling.
    - Continue leveraging the **Consumer** segment's demand by introducing personalized offers.
+  
+   ###Part-04
+   ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20Part-04.png?raw=true)
+
+    Here are some key insights:
+
+1. **Top-Performing Region**:  
+   - The **West** region leads in sales with **522.44K (33.37%)**, contributing the largest share among all regions.
+
+2. **Second Highest Sales**:  
+   - The **East** region ranks second, with **450.23K (28.75%)** of total sales.
+
+3. **Moderate Sales**:  
+   - The **Central** region has sales of **341.0K (21.7%)**, placing it in the middle of the performance spectrum.
+
+4. **Lowest Sales**:  
+   - The **South** region has the smallest sales contribution, with **252.12K (16.1%)**.
+
+5. **Sales Distribution**:  
+   - The sales distribution shows a significant imbalance, with the **West and East regions together accounting for over 62%** of the total sales.
+
 
 
