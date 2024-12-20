@@ -82,5 +82,5 @@ Here are some key insights from your Power BI dashboard based on the visualizati
 - **Shipping Optimization**: Investigate why other shipping modes are underperforming compared to the Standard Class.
 - **Category Focus**: Promote low-performing categories like Technology while sustaining growth in Office Supplies.
 
-Let me know if you'd like detailed analysis in any specific area!
+
 
