@@ -138,7 +138,7 @@ Here are the key insights from the above  dashboard:
    - Focus on increasing sales in the **Home Office** segment with targeted marketing and product bundling.
    - Continue leveraging the **Consumer** segment's demand by introducing personalized offers.
   
-   ###Part-04
+   ### Part-04
    ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dash%20Board%20Part-04.png?raw=true)
 
     Here are some key insights:
