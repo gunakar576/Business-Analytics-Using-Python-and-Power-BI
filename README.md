@@ -86,7 +86,7 @@ Here are some key insights from your Power BI dashboard based on the visualizati
 ![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dah%20Board%20Part-02.png?raw=true)
 
 
-Here are the key insights based on the provided dashboard:
+Here are the key insights based on the above  dashboard:
 
 ### 1. **Sales Forecast Overview**:
    - The sales trend is highly variable, with spikes reaching **11.8K** around early 2020 and **10.6K** toward the end of 2020.
