@@ -83,4 +83,33 @@ Here are some key insights from your Power BI dashboard based on the visualizati
 - **Category Focus**: Promote low-performing categories like Technology while sustaining growth in Office Supplies.
 
 
+![image alt](https://github.com/gunakar576/Superstore-Sales-Dashboard/blob/main/Dah%20Board%20Part-02.png?raw=true)
+
+
+Here are the key insights based on the provided dashboard:
+
+### 1. **Sales Forecast Overview**:
+   - The sales trend is highly variable, with spikes reaching **11.8K** around early 2020 and **10.6K** toward the end of 2020.
+   - The forecast for January 2021 shows a slight downward trend, with sales stabilizing at around **3K**.
+
+### 2. **Sales Peaks**:
+   - The highest sales during the observed period occurred in **early 2020**, indicating potential seasonal or promotional influences during this time.
+
+### 3. **State-Level Sales**:
+   - **California** is the top-performing state, contributing **$0.34M** in sales, significantly higher than any other state.
+   - **New York** is the second-highest with **$0.19M**, followed by **Texas** at **$0.12M**.
+   - States like **North Carolina** and **Michigan** show lower sales, contributing **$0.04M** and **$0.05M**, respectively.
+
+### 4. **Low-Performing States**:
+   - **Ohio**, **Illinois**, and **Florida** have moderate sales contributions, which could be targeted for improvement.
+
+### 5. **Seasonality**:
+   - A noticeable dip in sales occurs during certain months, suggesting opportunities to introduce targeted marketing or seasonal campaigns.
+
+### Suggestions:
+1. **California Focus**: Continue leveraging strategies that have worked well in California to maintain dominance.
+2. **Underperforming States**: Analyze factors in states like **Ohio**, **Illinois**, and **Florida** to understand barriers to sales growth.
+3. **Forecast Insights**: Prepare for the expected stabilization in early 2021 by aligning inventory and marketing strategies.
+4. **Seasonal Promotions**: Capitalize on high-sales periods (e.g., early and late 2020) with targeted promotions or campaigns.
+
 
