@@ -1,6 +1,6 @@
-# Superstore-Sales-Dashboard
+# Business Analytics Using Python and Power BI
 
-# Superstore Dashboard - Power BI
+# Business Analytics Using Python and Power BI
 
 ## Overview
 This project leverages the Superstore dataset to create an interactive Power BI dashboard. The dashboard provides insights into:
